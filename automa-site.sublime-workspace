@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"toml",
+				"Set Syntax: TOML"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/karel/Library/CloudStorage/OneDrive-Persoonlijk/Board games/Who's the king/_Data/charactercards.txt",
+		"/Users/karel/Downloads/svg.svg",
+		"/Users/karel/Library/CloudStorage/OneDrive-Persoonlijk/Board games/Who's the king/_Data/warecards.txt",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/menu.nl.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/_index.en.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/assets/css/custom.css",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/hugo.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/data/icons.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/menu.en.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/i18n/nl.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/layouts/partials/custom/head-end.html",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/contact.en.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/i18n/en.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/_index.nl.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/contraptions.nl.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/contact.nl.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/contraptions.en.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/karel.en.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/karel.nl.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/portfolio.en.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/portfolio.nl.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/layouts/partials/custom/footer.html",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/.gitignore",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/menu.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/content/_index.md",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/privacy.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/.github/workflows/pages.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/public/site.webmanifest",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/menu.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/hugo.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/hugo.toml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/data/settings.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config.yaml",
+		"/Users/karel/Library/CloudStorage/OneDrive-Persoonlijk/BortBortBort/Aankopen/Sublime Text/license.txt",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/module.toml",
+		"/Users/karel/Documents/Data/Sites/acme-corporation/hugo.yaml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/config.toml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/languages.nl.toml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/params.toml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/.github/workflows/hugo.yaml",
+		"/Users/karel/Documents/Data/Sites/acme-corporation/layouts/index.html",
+		"/Users/karel/Documents/Data/Sites/acme-corporation/static/index.css",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/privacy.toml",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/config/_default/module.yaml",
+		"/Users/karel/Desktop/quickstart/content/posts/my-first-post.md",
+		"/Users/karel/Desktop/split/caves.txt",
+		"/Users/karel/Desktop/split/dragons.txt",
+		"/Users/karel/Documents/Data/Sites/bbbort.github.io/index.html",
+		"/Users/karel/Desktop/hawkeye/tailwind.config.js",
+		"/Users/karel/Desktop/hawkeye/assets/css/input.css",
+		"/Users/karel/Desktop/hawkeye/layouts/_default/index.html",
+		"/Users/karel/Desktop/hawkeye/layouts/_default/baseof.html",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Translator Files/Vantage/_Data/_ChangeLog.txt",
+		"/Users/karel/Documents/Data/Sites/bortbortbort.github.io/index.html",
+		"/Users/karel/Desktop/getting-started-todo-app/client/src/index.scss",
+		"/Users/karel/Desktop/getting-started-todo-app/client/src/components/AddNewItemForm.jsx",
+		"/Users/karel/Desktop/getting-started-todo-app/backend/src/routes/getGreeting.js",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/SkirmExport.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-all.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-18.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-17.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-16.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-15.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-14.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-13.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-12b.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-12.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-11.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-10.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-9.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-8.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-7.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-6.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-5.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-4.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-3.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-2.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-1.txt",
+		"/Users/karel/Desktop/vantage-number-word.txt",
+		"/Users/karel/Desktop/test.txt",
+		"/Users/karel/Desktop/link.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-2",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/ChallengeDieSlots.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandsExport-13",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/Card IDHand cardCard batchNameCard typeSideba",
+		"/Users/karel/VT-tmp/comparison.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/WorldMap.txt",
+		"/Users/karel/Documents/Data/Spellen/Presentaties/Fri3d 2024/export.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/Locations_MainText.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandCards_Bottom2.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandCards_Bottom.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandCards_Type.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandCards_Title.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/HandCards_MissionText.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/Locations_ExtraText.txt",
+		"/Users/karel/Stonemaier Games Dropbox/Karel Titeca/Vantage/~Data/Locations_AlertText.txt",
+		"/Users/karel/Documents/Data/Spellen/Spellenkaarten/BGGlijst.txt",
+		"/Users/karel/Library/Preferences/Adobe InDesign/Version 19.0/en_GB/Scripts/Scripts Panel/HelloWorld.idjs",
+		"/Users/karel/Desktop/mailing-english-20240427.txt",
+		"/Users/karel/Library/CloudStorage/OneDrive-KULeuven/→ Communicatie/Website ICTS/Onderzoekers/onderzoekers-onderzoek-01.svg",
+		"/Users/karel/Library/CloudStorage/OneDrive-KULeuven/→ Communicatie/Website ICTS/Onderzoekers/onderzoekers-new-01.svg",
+		"/Users/karel/Library/CloudStorage/OneDrive-KULeuven/→ Communicatie/Website ICTS/Onderzoekers/onderzoekers-new-en-01.svg",
+		"/Users/karel/Library/CloudStorage/OneDrive-KULeuven/→ Communicatie/Website ICTS/Onderzoekers/onderzoekers-onderzoek-en-01.svg",
+		"/Users/karel/Library/CloudStorage/OneDrive-KULeuven/→ Communicatie/Website ICTS/Onderzoekers/onderzoekers-afronden.svg"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "automa-site.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
