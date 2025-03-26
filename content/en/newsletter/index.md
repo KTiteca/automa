@@ -1,8 +1,10 @@
 ---
-title: Emoji Support
-date: 2023-02-01
-author: Hugo Authors
-description: Guide to emoji usage in Hugo
+title: Newsletter signup
+author: Morten Monrad Pedersen
+description: Newsletter signup page
 tags:
-  - emoji
+  - newsletter
+type: newsletter
 ---
+
+Do you want to stay in touch? Subscribe to our newsletter!
