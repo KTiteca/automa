@@ -114,5 +114,3 @@ theme = "hugo-blog-awesome"
 [params.browserconfig]
   TileColor = "#2d89ef" # default windows 10 blue tile color
 
-#[[params.socialIcons]]
-#name = "github"
