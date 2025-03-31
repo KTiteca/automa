@@ -1,4 +1,4 @@
-# Automa website how-to
+## Automa website how-to
 
 - Change content in /content/
   - Index page: content/_index.md
