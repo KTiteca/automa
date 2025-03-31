@@ -1,5 +1,5 @@
 ---
-title: Newsletter signup demo
+title: Newsletter signup
 author: Morten Monrad Pedersen
 description: Newsletter signup page
 tags:
