@@ -56,10 +56,35 @@ theme = "hugo-blog-awesome"
     url = '/'
     weight = 10
   [[Languages.en-gb.menu.main]]
+    pageRef='about'
+    name = 'About'
+    url = '/about/'
+    weight = 20
+  [[Languages.en-gb.menu.main]]
     pageRef="newsletter"
     name = 'Newsletter'
     url = '/newsletter/'
-    weight = 20
+    weight = 30
+[[Languages.en-gb.menu.main]]
+    pageRef="solomodes"
+    name = 'Solo Modes'
+    url = '/solomodes/'
+    weight = 40
+[[Languages.en-gb.menu.main]]
+    pageRef="gamesexpansions"
+    name = 'Games & Expansions'
+    url = '/gamesexpansions/'
+    weight = 50
+[[Languages.en-gb.menu.main]]
+    pageRef="pnpvariants"
+    name = 'PnP & Variants'
+    url = '/pnpvariants/'
+    weight = 60
+[[Languages.en-gb.menu.main]]
+    pageRef="interviews"
+    name = 'Interviews'
+    url = '/interviews/'
+    weight = 70
 
 [Languages.en-gb.params]
   sitename = "Automa Factory"

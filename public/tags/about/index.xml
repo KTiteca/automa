@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Automa Factory</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Automa Factory</description>
+    <title>About on Automa Factory</title>
+    <link>http://localhost:1313/tags/about/</link>
+    <description>Recent content in About on Automa Factory</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automa Factory</title>
       <link>http://localhost:1313/about/</link>
@@ -27,7 +27,7 @@ Euphoria and the &lt;a href=&#34;https://boardgamegeek.com/boardgame/205050/host
       
       <guid>http://localhost:1313/gamesexpansions/</guid>
       
-      <description>&lt;p&gt;Apart from making solo modes, Automa Factory is also designing expansions and games.&lt;/p&gt;
+      <description>&lt;p&gt;Apart from making solo modes, Automa Factory is designing expansions and games.&lt;/p&gt;
 &lt;h1 id=&#34;games&#34;&gt;Games&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://inpatience.com/en/Our_Games-29-Skoventyr&#34;&gt;Skoventyr&lt;/a&gt;&lt;br/&gt;
 Game 2: To be announced (sign up for &lt;a href=&#34;http://localhost:1313/newsletter/&#34;&gt;our newsletter&lt;/a&gt; if you want to stay in the loop)&lt;/p&gt;
@@ -71,7 +71,7 @@ Game 2: To be announced (sign up for &lt;a href=&#34;http://localhost:1313/newsl
 Ludopedia in &lt;a href=&#34;https://ludopedia.com.br/topico/5860/1pgbr-entrevista-morten-pedersen?id_post=47913#id_post_47913&#34;&gt;Portuguese&lt;/a&gt; and &lt;a href=&#34;https://boardgamegeek.com/blog/2414/blogpost/51750/interview-about-the-automa-approach-and-my-solo-mo&#34;&gt;English&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&#34;https://www.papskubber.dk/artikel/dansk-design-bag-kickstarter-sensation&#34;&gt;Papskubber.dk: Dansk design bag Kickstarter-sensation&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&#34;https://1playerpodcast.com/e/1p-082-bullfrogs/&#34;&gt;1 Player Podcast: Second Appearance&lt;/a&gt;&lt;br/&gt;
-&lt;a href=&#34;https://1playerpodcast.com/e/1p-080-elevenses-for-one-x-hour-xenostrike/&#34;&gt;1 Player Podcast First Appearance&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://1playerpodcast.com/e/%3Cbr/%3E1p-080-elevenses-for-one-x-hour-xenostrike/&#34;&gt;1 Player Podcast First Appearance&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=1EjrW9WVND8&#34;&gt;bARRY dOUBLET’s “Song for Morten Monrad Pedersen”&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;</description>
       
     </item>
@@ -83,11 +83,32 @@ Ludopedia in &lt;a href=&#34;https://ludopedia.com.br/topico/5860/1pgbr-entrevis
       
       <guid>http://localhost:1313/pnpvariants/</guid>
       
-      <description>&lt;h1 id=&#34;print--play-variants-and-challenges&#34;&gt;Print &amp;amp; Play, Variants, and Challenges&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://automafactory.com/rr-youtoma/&#34;&gt;Youtoma&lt;/a&gt;: An alternative solo mode for Rolling Realms.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://boardgamegeek.com/boardgame/148450/endless-nightmare&#34;&gt;Endless Nightmare&lt;/a&gt;: A free print and play game designed by Morten Monrad Pedersen for the 2013 Solitaire Print and Play Contest. No cutting or papercrafting required. Morten&amp;rsquo;s game &lt;a href=&#34;https://boardgamegeek.com/boardgame/366322/skoventyr&#34;&gt;Skoventyr&lt;/a&gt; started out as an attempt to reimplement Endless Nightmare with mechanics from one of his favorite games, &lt;a href=&#34;https://boardgamegeek.com/boardgame/156336/onirim-second-edition&#34;&gt;Onirim&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://boardgamegeek.com/thread/3218395/skoventyr-challenge-january-2024-base-game&#34;&gt;Skoventyr challenges&lt;/a&gt;: 12 challenges for Skoventyr designed by &lt;a href=&#34;https://boardgamegeek.com/user/Newsh&#34;&gt;Paul Newsham&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://boardgamegeek.com/thread/2811510/a-simple-variant-for-making-the-solo-mode-more-lik&#34;&gt;A variant for the Floriferous solo mode&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;interviews&#34;&gt;Interviews&lt;/h1&gt;
+&lt;p&gt;Over the years Automa Factory founder, Morten Monrad Pedersen, has been interviewed many times. Here&amp;rsquo;s a selection of them.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ludology.net/&#34;&gt;Ludology: Flying Solo&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://boardgamegeek.com/blogpost/139396/designer-questions-solo&#34;&gt;The Dyslexic Gamer&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://tekeli.li/mgtt/archive/2022/The_Dark_Radio.html&#34;&gt;More Games Than Time: The Dark Radio&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://anchor.fm/detouring-podcast/episodes/Software-Developer-to-Boardgame-Designer-Mortens-Journey-e1j1770&#34;&gt;Detouring: Software Developer to Boardgame Designer&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://tekeli.li/mgtt/archive/2022/I_Know_How_a_Toaster_Works.html&#34;&gt;More Games Than Time: I Know How a Toaster Works&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://boardgamedesignlab.com/bipolarity-depression-and-using-game-design-to-cope-with-morten-monrad-pedersen/&#34;&gt;Board Game Design Lab: Bipolarity, Depression, and Using Game Design to Cope&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://boardgamegeek.com/blog/9408/blogpost/94805/the-solo-saturday-post-with-morten-monrad-pedersen&#34;&gt;The Solo Saturday Post&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://soundcloud.com/onestopcoopshop/102-automa-factory-interview-on-tapestry-and-solo-design&#34;&gt;One Stop Coop Shop: Tapestry and solo design&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://www.goinganalogshow.com/article/6/table-talk-building-solo-play-board-games&#34;&gt;Going Analog: Building solo-play board games&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://udfa2h.podcaster.de/solomanolo/special-episode-tapestry/&#34;&gt;Solo Manolo: Tapestry&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://www.stolovky.sk/2018/10/25/interview-morten-monrad-pedersen-stonemaier-games-essen-2018/&#34;&gt;Academy of Board Games&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://cardboardclash.wordpress.com/2018/05/12/interview-with-morten-monrad-pedersen/&#34;&gt;Cardboard Clash&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://www.boardgamersanonymous.com/engn-episode-74-charterstone-gaia-project-w-automa-factory/&#34;&gt;Every Night Is Game Night:Charterstone and Gaia Project w/ Automa Factory&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://udfa2h.podcaster.de/solomanolo/folge-1-solo-manolo-und-der-charterstone-der-weisen/&#34;&gt;Solo Manolo: Der Charterstone der Weisen&lt;/a&gt; (English interviews starts at 39:46)&lt;br/&gt;
+&lt;a href=&#34;https://www.cardboardherald.com/podcasts/2017/9/13/episode-45-morten-monrad-pedersen-of-the-automa-factory&#34;&gt;The Cardboard Herald&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://ludology.libsyn.com/ludology-episode-154-leave-me-alone&#34;&gt;Ludology: Leave Me Alone&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://boardgamegeek.com/blog/1429/blogpost/65240/board-chitless-episode-7-how-do-you-say-archipelag&#34;&gt;Board Chitless: How do you say &amp;lsquo;Archipelago&amp;rsquo;? &lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://www.boardgamedesignlab.com/creating-a-great-solo-variant-with-morten-pedersen/&#34;&gt;Board Game Design Lab: Creating a Great Solo Variant&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://1playerpodcast.com/e/1p-113-freedom-the-underground-railroad/&#34;&gt;1 Player Podcast: Third Appearance&lt;/a&gt;&lt;br/&gt;
+Ludopedia in &lt;a href=&#34;https://ludopedia.com.br/topico/5860/1pgbr-entrevista-morten-pedersen?id_post=47913#id_post_47913&#34;&gt;Portuguese&lt;/a&gt; and &lt;a href=&#34;https://boardgamegeek.com/blog/2414/blogpost/51750/interview-about-the-automa-approach-and-my-solo-mo&#34;&gt;English&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://www.papskubber.dk/artikel/dansk-design-bag-kickstarter-sensation&#34;&gt;Papskubber.dk: Dansk design bag Kickstarter-sensation&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://1playerpodcast.com/e/1p-082-bullfrogs/&#34;&gt;1 Player Podcast: Second Appearance&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://1playerpodcast.com/e/%3Cbr/%3E1p-080-elevenses-for-one-x-hour-xenostrike/&#34;&gt;1 Player Podcast First Appearance&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=1EjrW9WVND8&#34;&gt;bARRY dOUBLET’s “Song for Morten Monrad Pedersen”&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -99,7 +120,6 @@ Ludopedia in &lt;a href=&#34;https://ludopedia.com.br/topico/5860/1pgbr-entrevis
       <guid>http://localhost:1313/solomodes/</guid>
       
       <description>&lt;h1 id=&#34;solo-modes-by-automa-factory&#34;&gt;Solo modes by Automa Factory&lt;/h1&gt;
-&lt;p&gt;Automa Factory has designed the official solo modes for these games:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://boardgamegeek.com/boardgame/383179/age-of-innovation&#34;&gt;Age of Innovation&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&#34;https://stonemaiergames.com/games/apiary/&#34;&gt;Apiary&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&#34;https://stonemaiergames.com/games/between-two-castles/&#34;&gt;Between Two Castles&lt;/a&gt; (published in the &lt;a href=&#34;https://stonemaiergames.com/games/between-two-castles/secrets-soirees-expansion/&#34;&gt;Secreets &amp;amp; Soirees expansion&lt;/a&gt;, now included in the Essential Edition)&lt;br/&gt;
@@ -126,17 +146,6 @@ Ludopedia in &lt;a href=&#34;https://ludopedia.com.br/topico/5860/1pgbr-entrevis
 &lt;a href=&#34;https://stonemaiergames.com/games/viticulture/&#34;&gt;Viticulture&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&#34;https://stonemaiergames.com/games/wingspan/&#34;&gt;Wingspan&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&#34;https://stonemaiergames.com/games/wyrmspan/&#34;&gt;Wyrmspan&lt;/a&gt;&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Newsletter signup</title>
-      <link>http://localhost:1313/newsletter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/newsletter/</guid>
-      
-      <description>&lt;p&gt;If you want to stay in the loop on what’s going on at Automa Factory, or if you want to help us playtest, then please sign up for our newsletter below. It&amp;rsquo;s sent out rather infrequently, so don&amp;rsquo;t worry, your inbox won&amp;rsquo;t get flooded :-)&lt;/p&gt;</description>
       
     </item>
     
