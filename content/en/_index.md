@@ -3,6 +3,13 @@ title: "Home"
 author : "Hugo Authors"
 ---
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Test 2
 
 [![Game overview](images/automa_tee2023_v05.png)](about)
 
