@@ -4,12 +4,11 @@ author : "Hugo Authors"
 ---
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+Test 1
+
 Test 2
+
+Test 3
 
 [![Game overview](images/automa_tee2023_v05.png)](about)
 
