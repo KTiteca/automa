@@ -6,7 +6,6 @@ tags:
   - about
 type: contentPage
 ---
-<br/>
 
 # Solo modes by Automa Factory
 

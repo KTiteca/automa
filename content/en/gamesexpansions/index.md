@@ -7,6 +7,8 @@ tags:
 type: contentPage
 ---
 
+<br/>
+
 Apart from making solo modes, Automa Factory is also designing expansions and games.
 
 # Games

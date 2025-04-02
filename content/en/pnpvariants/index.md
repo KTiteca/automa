@@ -9,7 +9,6 @@ type: contentPage
 
 # Print & Play, Variants, and Challenges
 
-
 [Youtoma](https://automafactory.com/rr-youtoma/): An alternative solo mode for Rolling Realms.
 
 [Endless Nightmare](https://boardgamegeek.com/boardgame/148450/endless-nightmare): A free print and play game designed by Morten Monrad Pedersen for the 2013 Solitaire Print and Play Contest. No cutting or papercrafting required. Morten's game [Skoventyr](https://boardgamegeek.com/boardgame/366322/skoventyr) started out as an attempt to reimplement Endless Nightmare with mechanics from one of his favorite games, [Onirim](https://boardgamegeek.com/boardgame/156336/onirim-second-edition).
