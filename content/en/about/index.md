@@ -7,6 +7,8 @@ tags:
 type: contentPage
 ---
 
+<br/>
+
 The seeds of Automa Factory were sown in February 2014, when Jamey Stegmaier of Stonemaier Games reached out to Morten Monrad Pedersen and asked him to make a solo mode for [Viticulture](https://boardgamegeek.com/boardgame/128621/viticulture).
 
 A year later Morten founded Automa Factory where he together with a team of freelancers have made solo modes for games such as [Scythe](https://boardgamegeek.com/boardgame/169786/scythe), [Terra Mystica](https://boardgamegeek.com/boardgame/120677/terra-mystica), [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan), [Glen More II](https://boardgamegeek.com/boardgame/265188/glen-more-ii-chronicles), [Patchwork](https://boardgamegeek.com/boardgame/163412/patchwork), and [Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido).
