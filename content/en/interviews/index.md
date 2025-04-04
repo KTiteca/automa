@@ -9,7 +9,7 @@ type: contentPage
 
 # Interviews
 
-Over the years Automa Factory founder, Morten Monrad Pedersen, has been interviewed many times. Here's a selection of them.
+Over the years Automa Factory founder, Morten Monrad Pedersen, has been interviewed many times. Here's a selection of the interviews.
 
 [Ludology: Flying Solo](http://ludology.net/)<br/>
 [The Dyslexic Gamer](https://boardgamegeek.com/blogpost/139396/designer-questions-solo)<br/>
