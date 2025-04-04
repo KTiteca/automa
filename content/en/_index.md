@@ -5,7 +5,7 @@ author : "Hugo Authors"
 
 <br/>
 
-[![Solo mode overview](images/automa_tee2023_v05.png)](about)
+[![Solo mode overview](images/gameGrid3.png)](about)
 
 
 <br/>
